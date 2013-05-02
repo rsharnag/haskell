@@ -1,0 +1,4 @@
+haskell
+=======
+
+Practise haskell code
